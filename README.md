@@ -20,5 +20,3 @@ Frontend: Svelte for building a reactive user interface, slider inputs, and char
 Backend: FastAPI for handling the prediction requests, serving a PyTorch model that processes the input data.
 Model: PyTorch model for multi-step risk prediction, trained separately and loaded at runtime.
 Scaling and Constants: The backend applies scaling to input values and provides some constant inputs behind the scenes, ensuring compatibility with the model’s training conditions.
-For Running
-You need the google cloud permissions from Eric, esimon10@jhu.edu
